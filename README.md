@@ -1,7 +1,6 @@
 ### Hello 🌎 I'm Selena! 🇨🇦
-
-
-Currently aspiring CS or QSS student at Dartmouth College, class of 2026.
+# 
+Currently an aspiring CS or QSS student at Dartmouth College, class of 2026.
 
 🌲 My languages: Java, Python, Ruby
 
@@ -10,6 +9,5 @@ Currently aspiring CS or QSS student at Dartmouth College, class of 2026.
 🍀 Bucket list: C++
 
 🌷 Possible projects: Discord bot, personal website
-
-
+# 
 > Contact me at: selena.y.zhou.26@dartmouth.edu
