@@ -1,6 +1,6 @@
 ### Hello 🌎 I'm Selena! 🇨🇦
 # 
-Currently an aspiring CS or QSS student at Dartmouth College, class of 2026.
+Currently an aspiring CS and Economics student at Dartmouth College, class of 2026.
 
 🌲 My languages: Java, Python, Ruby
 
