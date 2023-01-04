@@ -1,13 +1,5 @@
-### Hello 🌎 I'm Selena! 🇨🇦
+### Hey my name is Selena!
 # 
-Currently an aspiring CS and Economics student at Dartmouth College, class of 2026.
-
-🌲 My languages: Java, Python, Ruby
-
-🌱 Currently learning: Python
-
-🍀 Bucket list: C++
-
-🌷 Future projects: Discord bot, personal website
-# 
-> Contact me at: selena.y.zhou.26@dartmouth.edu
+Undergraduate CS and econ student at Dartmouth College.
+-Languages: Java, Python
+-Contact: selena.y.zhou.26@dartmouth.edu
