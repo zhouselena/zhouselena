@@ -1,7 +1,7 @@
-### Hey my name is Selena!
+### Hey, my name is Selena!
  
 Undergraduate CS and econ student at Dartmouth College.
 
--Languages: Java, Python
+- Languages: Java, Python, C
 
--Contact: selena.y.zhou.26@dartmouth.edu
+- Contact: selena.y.zhou.26@dartmouth.edu
