@@ -6,4 +6,4 @@ Undergraduate CS and econ student at Dartmouth College.
 
 - Contact: selena.y.zhou.26@dartmouth.edu
 
-Visit my website at selenaz.me!
+### Visit my website at (selenaz.me)[selenaz.me]!
