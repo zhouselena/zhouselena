@@ -8,4 +8,4 @@ Undergraduate CS and econ student at Dartmouth College.
 
 - LinkedIn: https://www.linkedin.com/in/selena-zhou/
 
-### Visit my website at [selenaz.me](https://selenaz.me/)!
+### Visit my website at [selenaz.me](https://selenaz.co/)!
