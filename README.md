@@ -1,6 +1,6 @@
 ### Hey, my name is Selena!
  
-Currently doing a CS major and film & french minor at Dartmouth College.
+Currently doing a CS major and film & french double minor at Dartmouth College.
 
 - Languages: React, Java, Python, C
 
