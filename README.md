@@ -1,8 +1,8 @@
 ### Hey, my name is Selena!
  
-Undergraduate CS and econ student at Dartmouth College.
+Currently doing a CS major and film & french minor at Dartmouth College.
 
-- Languages: Java, Python, C, HTML/CSS
+- Languages: React, Java, Python, C
 
 - Contact: selena.y.zhou.26@dartmouth.edu
 
